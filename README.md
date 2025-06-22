@@ -55,6 +55,6 @@ This is an interactive **Power BI dashboard project** inspired by Swiggy, design
 
 ## 🔗 Connect
 
-If you like this project, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nalini-banki/)  
+If you like this project, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nalini24/)  
 **Follow for daily data tips!** 😊  
 #PowerBI #SwiggyDashboard #DataAnalytics #DashboardDesign #NaliniBanki
