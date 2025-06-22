@@ -4,7 +4,7 @@ Power BI dashboard project analyzing Swiggy-style food delivery data
 
 This is an interactive **Power BI dashboard project** inspired by Swiggy, designed to analyze and visualize food delivery operations using a real-world-style dataset.
 
-![Swiggy Dashboard Preview](Swiggy_Dashboard.png)
+!Swiggy_dashboard.png
 
 ---
 
